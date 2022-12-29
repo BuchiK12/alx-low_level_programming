@@ -9,10 +9,10 @@ void times_table(void)
 {
 	int s = 0, e = 9, count = 0;
 
-	while (count < = 9)
+	while (count <= 9)
 	{
 		while (s <= e)
-			let p = count * s;
+			int p = count * s;
 		if (s != e)
 		{
 			_putchar(',');
