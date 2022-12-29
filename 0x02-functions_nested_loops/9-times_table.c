@@ -12,6 +12,7 @@ void times_table(void)
 	while (count <= 9)
 	{
 		while (s <= e)
+			
 			int p = count * s;
 
 		if (s != e)
