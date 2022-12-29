@@ -13,6 +13,7 @@ void times_table(void)
 	{
 		while (s <= e)
 			int p = count * s;
+
 		if (s != e)
 		{
 			_putchar(',');
